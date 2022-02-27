@@ -1,0 +1,31 @@
+{
+  "name": "blochain-demo",
+  "version": "1.0.0",
+  "description": "make blochchain demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harshad patel",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.3",
+    "dotenv": "^16.0.0",
+    "ethereum-hdwallet": "0.0.27",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.4",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "sequelize": "^6.16.2"
+  }
+}
